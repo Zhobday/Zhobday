@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zhobday
-- 👀 I’m interested in Back End Engineering 
+- 👀 I’m interested in Node, React, Typescript
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open Source Python services
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me:  {"email":"zachobday0@gmail.com","linkedin":"https://www.linkedin.com/in/zac-hobday-42685b110/"}
 
 <!---
